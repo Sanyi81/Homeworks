@@ -1,0 +1,44 @@
+body {
+    background: antiquewhite;
+}
+.container {
+    background: silver;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 800px;
+}
+.widget {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
+    width: auto;
+    height: 200px;
+    margin: 10px;
+}
+.big-widgets {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: silver;
+    width: auto;
+    height: 100px;
+    margin: 10px;
+}
+.widgets-trio {
+    background: cornflowerblue;
+    justify-content: center;
+    text-align: center;
+    width: 180px;
+    height: 100px;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
+    width: auto;
+    height: 430px;
+    margin: 10px;
+}

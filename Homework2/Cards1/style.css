@@ -1,0 +1,86 @@
+body {
+    background: antiquewhite;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 800px;
+}
+.cards {
+    background: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 250px;
+    height: 350px;
+}
+.widget-body {
+    background: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 250px;
+    height: 70px;
+}
+.widget {
+    background: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+
+i {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    border: 1px solid black;
+    margin-top: 0;
+    height: 275px;
+}
+.description1 > h3 {
+    background: antiquewhite;
+    text-align: center;
+    margin: 0;
+    padding-top: 50px;
+}
+.description1 > p {
+    background: antiquewhite;
+    color: gray;
+    box-sizing: border-box;
+    text-align: center;
+    height: 100px;
+    margin: 10px;
+}
+.button_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+button {
+    background: aquamarine;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.fa-atom-simple {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.fa-circle-star {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+

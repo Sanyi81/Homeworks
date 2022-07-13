@@ -1,0 +1,36 @@
+.photo {
+    width: 250px;
+    margin-right: 5px;
+}
+.simpsons {
+    background: lightgreen;
+    color: green;
+}
+.homer {
+    background: cornflowerblue;
+    color: black;
+}
+.bart {
+    background: burlywood;
+    color: blue;
+}
+.lisa {
+    background: goldenrod;
+    color: darkred;
+}
+.phrases {
+    background: white;
+    color: blue;
+}
+.list {
+    background: white;
+    color: gold;
+}
+.name {
+    background: white;
+    color: coral;
+}
+.title {
+    background: white;
+    color: orange;
+}
